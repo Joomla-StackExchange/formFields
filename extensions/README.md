@@ -1,6 +1,6 @@
 # Extensions dropdown list
 
-This form field will show installed and enabled extensions
+This form field will show installed extensions
 
 ## Options (attributes)
 
