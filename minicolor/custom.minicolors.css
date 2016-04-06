@@ -1,0 +1,24 @@
+/**
+ * Overrides for jquery.minicolors.css to work with Joomla!
+ */
+
+.minicolors {
+  position: relative;
+  display: inline-block;
+  z-index: 11;
+}
+
+.minicolors-focus {
+  z-index: 12;
+}
+
+.minicolors input[type=hidden] + .minicolors-swatch {
+  width: 20px;
+}
+
+/* Bootstrap theme */
+.minicolors-theme-bootstrap .minicolors-swatch {
+  z-index: 12;
+  width: 20px;
+  height: 20px;
+}
