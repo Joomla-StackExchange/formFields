@@ -1,8 +1,9 @@
-# Minicolor colorpicker
+# DEPRECATED! Minicolor colorpicker
+
 
 This form field will show `rgba` or `hex` color picker using [jquery-minicolors](https://github.com/claviska/jquery-minicolors).
 
-> **Note:** Joomla! official GitHub repo has [PR](https://github.com/joomla/joomla-cms/pull/7602) which after merge would result in same and more possibilities. So, before using this, please check if Joomla! developers have already modified core `color` form field.
+> **Note:** Joomla! official GitHub repo has merged [PR](https://github.com/joomla/joomla-cms/pull/7602) which results in same and more possibilities. So, before using this, please check if your Joomla! version (>= 3.6) supports new `color` form field.
 
 ![Minicolor form field screenshot](screenshot.jpg)
 
